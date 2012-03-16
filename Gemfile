@@ -16,3 +16,5 @@ group :assets do
   gem 'less'
 end
 
+
+gem 'refinerycms-courses', :path => 'vendor/extensions'
